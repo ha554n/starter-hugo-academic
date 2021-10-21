@@ -11,7 +11,6 @@ role: Post Doctoral Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Loyola University Chicago
-- 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
